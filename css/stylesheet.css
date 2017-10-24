@@ -20,8 +20,7 @@ html, body {
 h1 {
 	font-family: TitleFont;
 	font-size: 600%;
-/*	padding-top: 40%;
-*/	letter-spacing: 5px;
+	letter-spacing: 5px;
 	word-spacing: 30px;
 }
 
@@ -29,16 +28,22 @@ p {
 	line-height: 200%;
 }
 
+h2 {
+	padding-top: 20px;
+}
+
 /* ===================== Container/content ====================== */
 
 .container {
+	text-align: center;
 	margin: 0 auto;
 	width: 90%;
 	max-width: 960px;
 }
 
 .content {
+	display: inline-block;
 	text-align: left;
 	overflow: auto;
+	max-width: 600px;
 }
-

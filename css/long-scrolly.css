@@ -42,6 +42,10 @@ ul li {
 	padding-left: 20px;
 }
 
+.is-current {
+	text-decoration: underline;
+}
+
 /* ======================== Sections =============================== */
 
 section {
