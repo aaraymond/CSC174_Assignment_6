@@ -1,0 +1,44 @@
+/* ===================== My fonts ====================== */
+
+@font-face {
+	font-family: TitleFont;
+	src: url("fonts/abril-fatface-regular.ttf");
+}
+
+@font-face {
+	font-family: BodyFont;
+	src: url("fonts/charlevoix-pro-light.otf");
+}
+
+/* ===================== Base styles ====================== */
+
+html, body {
+	font-family: BodyFont;
+	letter-spacing: 2px;
+}
+
+h1 {
+	font-family: TitleFont;
+	font-size: 600%;
+/*	padding-top: 40%;
+*/	letter-spacing: 5px;
+	word-spacing: 30px;
+}
+
+p {
+	line-height: 200%;
+}
+
+/* ===================== Container/content ====================== */
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+}
+
+.content {
+	text-align: left;
+	overflow: auto;
+}
+
