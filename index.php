@@ -137,7 +137,7 @@
 
             <div class="content">
 
-                <p>I used the simple scroll example provided py Professor Kostin. I downloaded two typefaces, one from Behance and one from Google Fonts.</p>
+                <p>I used the simple scroll example provided with adjustments made to background color of the sections. I downloaded two typefaces, one from Behance and one from Google Fonts.</p>
 
                 <p>For the typeface choices, I looked at the shapes of the letters to determine which style best suited eachother. For example, the "w" of both typefaces has flat bottoms and tops, which pair well together.</p>
 
